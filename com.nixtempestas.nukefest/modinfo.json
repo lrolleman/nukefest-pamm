@@ -1,0 +1,14 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "com.nixtempestas.nukefest",
+    "display_name" : "Nuke Fest",
+    "description" : "Nuke and anti-nuke missiles are much cheaper",
+    "date": "2015/01/29",
+    "category": [
+      "balance"
+    ],
+    "author" : "nixtempestas",
+    "version" : "1.0",
+    "signature" : "(not yet implemented)"
+}
